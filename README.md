@@ -13,3 +13,13 @@ Email-me: juniordias_@live.com;
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/alexandre-junior-236894190/).
 
+### Installing
+
+**Cloning the Repository**
+
+```
+$ git clone https://github.com/ItsJuniorDias/Twitter-FlexBox
+
+$ cd Twitter-FlexBox
+```
+
